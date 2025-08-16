@@ -12,7 +12,6 @@ Challenge yourself and enjoy the addictive sliding puzzle experience.
 - HTML5
 - SCSS
 - JavaScript (ES6)
-- Parcel
 
 ## How to set up the project locally:
   - Clone the repository:
