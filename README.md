@@ -6,7 +6,7 @@ I believe that games should be interesting, exciting, and accessible — without
 
 Challenge yourself and enjoy the addictive sliding puzzle experience.
 
-[DEMO LINK](https://tuhusova.github.io/2048-game/)
+[DEMO LINK](https://tuhusova.github.io/2048/)
 
 ## Technologies Used:
 - HTML5
